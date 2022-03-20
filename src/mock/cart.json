@@ -1,0 +1,31 @@
+{
+  "code": 200,
+  "message": "成功",
+  "data": [
+    {
+      "id": 61,
+      "userId": "2",
+      "skuId": 4,
+      "cartPrice": 5999,
+      "skuNum": 4,
+      "skuBar": "黑色",
+      "imgUrl": "http://192.168.200.128:8080xxx.jpg",
+      "skuName": "Apple iPhone 11 (A2223) ",
+      "isChecked": 1,
+      "skuPrice": 5999
+    },
+    {
+      "id": 62,
+      "userId": "2",
+      "skuId": 2,
+      "cartPrice": 5499,
+      "skuNum": 1,
+      "skuBar": "墨绿色",
+      "imgUrl": "http://192.168.200.128:8080/yyyy.jpg",
+      "skuName": "Apple iPhone 11 (A2223) 64GB 红色",
+      "isChecked": 0,
+      "skuPrice": 5499
+    }
+  ],
+  "ok": true
+}

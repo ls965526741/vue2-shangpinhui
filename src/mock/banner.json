@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "images": "/images/banner1.jpg"
+    },
+    {
+      "id": "2",
+      "images": "/images/banner2.jpg"
+    },
+    {
+      "id": "3",
+      "images": "/images/banner3.jpg"
+    },
+    {
+      "id": "4",
+      "images": "/images/banner4.jpg"
+    }
+  ],
+  "code": 200
+}

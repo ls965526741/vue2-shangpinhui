@@ -1,0 +1,55 @@
+$activeColor: #043156;
+$defaultColor: #3f3f3f;
+$logoColor: #fa7198;
+$text1:#5f6368;
+$text2:#cccccc;
+$bgc1:#f8f9f9;
+
+/* flex布局 */
+@mixin flex($justify:center, $align: center, $wrap: nowrap) {
+  display: flex;
+  justify-content: $justify;
+  align-items: $align;
+  flex-wrap: $wrap;
+}
+
+// .5px border
+@mixin harf-border($color:#ccc,$radius:0px) {
+  position: relative;
+  -webkit-border-radius: $radius;
+  border-radius: $radius;
+  &:before{
+    content: '';
+    position: absolute;
+    top: -50%;
+    bottom: -50%;
+    left: -50%;
+    right: -50%;
+    -webkit-transform: scale(0.5);
+    transform: scale(0.5);
+    border: 1px solid $color;
+    -webkit-border-radius: calc($radius * 2);
+    border-radius: calc($radius * 2);
+  }
+}
+
+// scrolly y轴滚动栏隐藏
+@mixin scrolly {
+  overflow-x: hidden;
+  overflow-y: scroll;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+
+@mixin text-overflow-2(){
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+@mixin cardshow(){
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.15);
+}

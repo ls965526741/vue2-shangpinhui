@@ -1,0 +1,160 @@
+{
+  "code": 200,
+  "message": "成功",
+  "data": {
+    "totalAmount": 17831.0,
+    "userAddressList": null,
+    "tradeNo": "ff0118bfb5f94b78bbeeba8661da9784",
+    "totalNum": 3,
+    "originalTotalAmount": 17881,
+    "couponInfoList": [],
+    "detailArrayList": [
+      {
+        "id": null,
+        "orderId": null,
+        "skuId": 10,
+        "skuName": "Apple iPhone 12 (A2404) 64GB 蓝色 支持移动联通电信5G 双卡双待手机",
+        "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-rgfWAbqkuAAENKBtJukQ551.jpg",
+        "orderPrice": 8197,
+        "skuNum": 1,
+        "createTime": null,
+        "sourceType": "QUERY",
+        "sourceId": 10,
+        "splitTotalAmount": null,
+        "splitActivityAmount": null,
+        "splitCouponAmount": null,
+        "refundStatus": "",
+        "refundStatusString": "",
+        "hasStock": null,
+        "activityRule": null,
+        "couponInfoList": null
+      },
+      {
+        "id": null,
+        "orderId": null,
+        "skuId": 6,
+        "skuName": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 8GB+128GB 冰雾白 游戏智能手机 小米 红米",
+        "imgUrl": "http://47.93.148.192:8080/group1/M00/00/01/rBHu8l-rgJqAHPnoAAF9hoDNfsc505.jpg",
+        "orderPrice": 1299,
+        "skuNum": 4,
+        "createTime": null,
+        "sourceType": "QUERY",
+        "sourceId": 6,
+        "splitTotalAmount": null,
+        "splitActivityAmount": null,
+        "splitCouponAmount": null,
+        "refundStatus": "",
+        "refundStatusString": "",
+        "hasStock": null,
+        "activityRule": null,
+        "couponInfoList": null
+      },
+      {
+        "id": null,
+        "orderId": null,
+        "skuId": 15,
+        "skuName": "华为 HUAWEI P40 麒麟990 5G SoC芯片 5000万超感知徕卡三摄 30倍数字变焦 8GB+128GB冰霜银全网通5G手机",
+        "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-sklaAbYPbAAHJf20K7J4980.jpg",
+        "orderPrice": 4488,
+        "skuNum": 1,
+        "createTime": null,
+        "sourceType": "QUERY",
+        "sourceId": 15,
+        "splitTotalAmount": null,
+        "splitActivityAmount": null,
+        "splitCouponAmount": null,
+        "refundStatus": "",
+        "refundStatusString": "",
+        "hasStock": null,
+        "activityRule": null,
+        "couponInfoList": null
+      }
+    ],
+    "activityReduceAmount": 50.0,
+    "orderDetailVoList": [
+      {
+        "orderDetailList": [
+          {
+            "id": null,
+            "orderId": null,
+            "skuId": 6,
+            "skuName": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 8GB+128GB 冰雾白 游戏智能手机 小米 红米",
+            "imgUrl": "http://47.93.148.192:8080/group1/M00/00/01/rBHu8l-rgJqAHPnoAAF9hoDNfsc505.jpg",
+            "orderPrice": 1299,
+            "skuNum": 4,
+            "createTime": null,
+            "sourceType": "QUERY",
+            "sourceId": 6,
+            "splitTotalAmount": null,
+            "splitActivityAmount": null,
+            "splitCouponAmount": null,
+            "refundStatus": "",
+            "refundStatusString": "",
+            "hasStock": null,
+            "activityRule": null,
+            "couponInfoList": null
+          }
+        ],
+        "activityRule": {
+          "id": 119,
+          "activityId": 38,
+          "activityType": "FULL_REDUCTION",
+          "conditionAmount": 1000.0,
+          "conditionNum": null,
+          "benefitAmount": 50.0,
+          "benefitDiscount": null,
+          "benefitLevel": null,
+          "skuId": 6,
+          "reduceAmount": 50.0,
+          "skuIdList": [6]
+        }
+      },
+      {
+        "orderDetailList": [
+          {
+            "id": null,
+            "orderId": null,
+            "skuId": 10,
+            "skuName": "Apple iPhone 12 (A2404) 64GB 蓝色 支持移动联通电信5G 双卡双待手机",
+            "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-rgfWAbqkuAAENKBtJukQ551.jpg",
+            "orderPrice": 8197,
+            "skuNum": 1,
+            "createTime": null,
+            "sourceType": "QUERY",
+            "sourceId": 10,
+            "splitTotalAmount": null,
+            "splitActivityAmount": null,
+            "splitCouponAmount": null,
+            "refundStatus": "",
+            "refundStatusString": "",
+            "hasStock": null,
+            "activityRule": null,
+            "couponInfoList": null
+          },
+          {
+            "id": null,
+            "orderId": null,
+            "skuId": 15,
+            "skuName": "华为 HUAWEI P40 麒麟990 5G SoC芯片 5000万超感知徕卡三摄 30倍数字变焦 8GB+128GB冰霜银全网通5G手机",
+            "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-sklaAbYPbAAHJf20K7J4980.jpg",
+            "orderPrice": 4488,
+            "skuNum": 1,
+            "createTime": null,
+            "sourceType": "QUERY",
+            "sourceId": 15,
+            "splitTotalAmount": null,
+            "splitActivityAmount": null,
+            "splitCouponAmount": null,
+            "refundStatus": "",
+            "refundStatusString": "",
+            "hasStock": null,
+            "activityRule": null,
+            "couponInfoList": null
+          }
+        ],
+        "activityRule": null
+      }
+    ]
+  },
+  "ok": true
+}

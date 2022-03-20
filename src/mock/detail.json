@@ -1,0 +1,185 @@
+{
+  "code": 200,
+  "message": "成功",
+  "data": {
+    "valuesSkuJson": "{\"12\":687,\"13\":713,\"11|13\":259,\"10|13\":764,\"11|14\":194,\"12|13\":11,\"9\":669,\"10|14\":768,\"9|10|14\":770,\"9|14\":766,\"9|13\":767,\"10\":672}",
+    "price": 8197,
+    "categoryView": {
+      "id": 61,
+      "category1Id": 2,
+      "category1Name": "手机",
+      "category2Id": 13,
+      "category2Name": "手机通讯",
+      "category3Id": 61,
+      "category3Name": "手机"
+    },
+    "spuSaleAttrList": [
+      {
+        "id": 5,
+        "spuId": 3,
+        "baseSaleAttrId": 1,
+        "saleAttrName": "颜色",
+        "spuSaleAttrValueList": [
+          {
+            "id": 9,
+            "spuId": 3,
+            "baseSaleAttrId": 1,
+            "saleAttrValueName": "黑色",
+            "saleAttrName": "颜色",
+            "isChecked": "0"
+          },
+          {
+            "id": 10,
+            "spuId": 3,
+            "baseSaleAttrId": 1,
+            "saleAttrValueName": "红色",
+            "saleAttrName": "颜色",
+            "isChecked": "0"
+          },
+          {
+            "id": 11,
+            "spuId": 3,
+            "baseSaleAttrId": 1,
+            "saleAttrValueName": "蓝色",
+            "saleAttrName": "颜色",
+            "isChecked": "1"
+          },
+          {
+            "id": 12,
+            "spuId": 3,
+            "baseSaleAttrId": 1,
+            "saleAttrValueName": "白色",
+            "saleAttrName": "颜色",
+            "isChecked": "0"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "spuId": 3,
+        "baseSaleAttrId": 2,
+        "saleAttrName": "版本",
+        "spuSaleAttrValueList": [
+          {
+            "id": 13,
+            "spuId": 3,
+            "baseSaleAttrId": 2,
+            "saleAttrValueName": "64G",
+            "saleAttrName": "版本",
+            "isChecked": "1"
+          },
+          {
+            "id": 14,
+            "spuId": 3,
+            "baseSaleAttrId": 2,
+            "saleAttrValueName": "128G",
+            "saleAttrName": "版本",
+            "isChecked": "0"
+          }
+        ]
+      }
+    ],
+    "skuInfo": {
+      "id": 10,
+      "spuId": 3,
+      "price": 8197,
+      "skuName": "Apple iPhone 12 (A2404) 64GB 蓝色 支持移动联通电信5G 双卡双待手机",
+      "skuDesc": "Apple iPhone 12 (A2404) 128GB 红色 支持移动联通电信5G 双卡双待手机",
+      "weight": "1.00",
+      "tmId": 2,
+      "category3Id": 61,
+      "skuDefaultImg": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-rgfWAbqkuAAENKBtJukQ551.jpg",
+      "isSale": 1,
+      "createTime": "2021-12-10 01:30:19",
+      "skuImageList": [
+        {
+          "id": 46,
+          "skuId": 10,
+          "imgName": "2689bc534d570eaf.jpg",
+          "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-rgfWAO2oYAAEw9kY2VKk982.jpg",
+          "spuImgId": 13,
+          "isDefault": "0"
+        },
+        {
+          "id": 47,
+          "skuId": 10,
+          "imgName": "34c390fe3ab2bab5.jpg",
+          "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-rgfWAbqkuAAENKBtJukQ551.jpg",
+          "spuImgId": 15,
+          "isDefault": "1"
+        },
+        {
+          "id": 48,
+          "skuId": 10,
+          "imgName": "7ae59d1d962f0965.jpg",
+          "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-rgfWAFeQLAAEt9MLZnho584.jpg",
+          "spuImgId": 16,
+          "isDefault": "0"
+        },
+        {
+          "id": 49,
+          "skuId": 10,
+          "imgName": "f73bfe30f5ec641a.jpg",
+          "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-rgfWABhwlAAEjBwwVkrI735.jpg",
+          "spuImgId": 18,
+          "isDefault": "0"
+        }
+      ],
+      "skuAttrValueList": [
+        {
+          "id": 37,
+          "attrId": 106,
+          "valueId": 175,
+          "skuId": 10,
+          "attrName": "手机一级",
+          "valueName": "苹果手机"
+        },
+        {
+          "id": 38,
+          "attrId": 107,
+          "valueId": 179,
+          "skuId": 10,
+          "attrName": "二级手机",
+          "valueName": "苹果"
+        },
+        {
+          "id": 39,
+          "attrId": 23,
+          "valueId": 14,
+          "skuId": 10,
+          "attrName": "运行内存",
+          "valueName": "4G"
+        },
+        {
+          "id": 40,
+          "attrId": 24,
+          "valueId": 82,
+          "skuId": 10,
+          "attrName": "机身内存",
+          "valueName": "128G"
+        }
+      ],
+      "skuSaleAttrValueList": [
+        {
+          "id": 19,
+          "skuId": 10,
+          "spuId": 3,
+          "saleAttrValueId": 11,
+          "saleAttrId": 1,
+          "saleAttrName": "颜色",
+          "saleAttrValueName": "蓝色"
+        },
+        {
+          "id": 20,
+          "skuId": 10,
+          "spuId": 3,
+          "saleAttrValueId": 13,
+          "saleAttrId": 2,
+          "saleAttrName": "版本",
+          "saleAttrValueName": "64G"
+        }
+      ]
+    }
+  },
+  "ok": true
+}
